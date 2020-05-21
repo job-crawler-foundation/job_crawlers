@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/remoteok/RemoteOk/RemoteOk/bin/Debug/netcoreapp3.1
+/src/remoteok/RemoteOk/.vs/RemoteOk/v16
+/src/remoteok/RemoteOk/RemoteOk/obj
